@@ -1,0 +1,90 @@
+1. Ensure Customer Success – Obsessive and unwavering commitment to making customers successful.
+2. Focus On Results – Relentless focus on delivering results through innovation and a bias for action.
+3. Strive For Excellence – Commitment to a collaborative environment infused with professionalism, integrity, passion, and accountability.
+
+
+Responsibilities
+Test Coupa Analytics application and write tests and automate user  scenarios.
+Collaborate with the engineering team to analyze, debug and resolve  issues.
+Automate data loading processes and build monitoring tools around them.
+Enhance and automate data ingestion, transformation, cleansing, and loading processes.
+Work closely with product managers and user experience designers to build meaningful dashboards and reports
+Requirements:
+Strong knowledge in ETL/ELT and Data Integration tools such as BI.
+Hands on experience with ETL batch jobs and automating ETL process.
+Working experience with testing cloud BI providers (GoodData, Birst, etc..)
+Experience with test automation frameworks and utilization of appropriate test methodologies and tools for data warehouse testing.
+Good understanding of Data Model design.
+Bachelors degree or higher, with 3+ years data analytics experience.
+Strong analytical SQL skills, working experience Linux, Unix
+Programming experience with Ruby, Python, Shell scripting or equivalent
+Excellent communication skills
+Experience working in agile development processes
+
+Responsibilities include:·
+Design robust integration test scripts using Ruby and Ruby on Rails for native and Hybrid Mobile apps·   
+Conduct code reviews to manage code quality of the tests coming in from both developers and the automation team·      
+Develop test strategies, create test plans, and execute test cases – both manually and via automation·
+Consistently contribute to improve the test automation infrastructure.·      
+Implement and help the team embrace best automation practices to maintain quality·      
+Participate in Sprint planning meetings and daily stand ups to stay on top of things and report progress·      
+Work closely with Scrum team members to clarify requirements, ensure testability and automation potential, and provide feedback on design (functional and technical)·      
+Be a vocal champion for quality in every phase of the development process·      
+Work closely with development to facilitate unit test, API tests and integration tests.·       
+Coaching/steering bright and collaborative team members (on site and remote) 
+
+Requirements:·
+BS in Computer Science·      
+Hands on experience with Mobile Automation Frameworks using Appium, Cucumber, Calabash, Selenium, 
+UIAutomation and UIAutomator·      
+Strong object-oriented Ruby programming skills using RSpec and Capybara and with Appium on iOS and Android·      
+Strong understanding, implementation of POM, step definitions, Workflows·      
+5-7 years of prior hands on knowledge in API automation & tools.·      
+Scripting experience in any of the following - Ruby, Java, Python, Perl·      
+Proven record of building solid test plans and test automation solutions·      
+Experience interacting/collaborating with other teams (development, product management, customer support)·      
+Shows creativity and initiative to improve product test coverage and effectiveness·       
+Excellent written and verbal communication, people and collaboration skills 
+
+Preferred:·
+Masters in Computer Science·      
+Experience working with enterprise applications·      
+Experience working with Apple iOS, Google Android, UNIX operating systems.
+
+
+
+
+
+1. Ensure Customer Success – Obsessive and unwavering commitment to making customers successful.
+2. Focus On Results – Relentless focus on delivering results through innovation and a bias for action.
+3. Strive For Excellence – Commitment to a collaborative environment infused with professionalism, integrity, passion, and accountability.
+Responsibilities:
+Experience in handling high pressure critical projects using continuous integration with an emphasis on back-end APIs and systems integration and delivery to achieve highly efficient release cycles.
+Experience in people management for a medium to large sized team (4-8 members) with expertise in setting SMART goals aligned with that of organisation and achieving high employee engagement and motivation to deliver high quality products.
+Communicate effectively at different levels including senior leadership, peers, reporting team and other stakeholders across geographies to ensure clarity in all product/release quality related progress and updates.
+Participate in sprint planning meetings and daily stand ups and work with teams to mitigate any blockers and adopt to changing needs in fast moving environment to ensure quality deliveries and meeting the commitments.
+Design and develop frameworks and robust automation test scripts at both Unit and integration level.
+Conduct code reviews to manage automation code quality and guide teams for improvements and adherence of best practices.
+Work closely with product and development teams for scoping/sizing after clarifying requirements and create strategy and technical design for quality delivery and help others on same within and across teams.
+Work with cross geographies teams (PMO, Platform, Operations etc.) and ensure all release aspects are taken care of and any communication needed is delivered well in time. 
+Requirements:
+BS/B Tech degree in Computer Science from a reputed institution.
+6-8 years core development or SDET experience with minimum 2 years experience in a Lead/Manager role
+Strong understanding of computer science fundamentals and data structures.
+Experience in creation of test frameworks using open source automation tools.
+Expertise in team management, smart goal setting, scoping and estimations and clear communication.
+Solid knowledge of test architectural principles, concepts and application across web/cloud based technologies.
+Hands on in writing clean code quickly in languages like Java, Python, Ruby and code review techniques.
+Understanding of QA methodologies, life cycle and processes and project management techniques.
+Open source automation tools and FW knowledge both at backend and frontend.
+REST APIs and SOAP web services with JSON and XML payloads.
+Build systems such as TeamCity, Jenkins, Maven, Ant.
+Competencies:
+Strong in team and senior leadership management and collaboration with multiple stakeholders, create plans to meet their need and able to adjust for the changes on the fly.
+Strong presentation and communication skills.
+Completely hands on manager who leads by example and works closely with the team to take them along in all situations, celebrates successes and learnings both, appreciates new ideas or efforts and be able to mentor the team to achieve their goals and ambitions.
+Demonstrates an ability to jump into problems in all areas of the system, determine root cause, and implement solutions based on integrations and evaluating all the related factors.
+Constantly looks for improvements in software development and testing processes
+Mentors engineers towards the completion of short-term work goals
+Sought by others for advice and review of design and implementation and actively champions good ideas from other team members.
+Exceptionally strong customer focused and keeps up to date with recent tools and technologies to delivery ever increasing values to them.

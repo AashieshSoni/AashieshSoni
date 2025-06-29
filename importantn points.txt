@@ -1,0 +1,124 @@
+3275870768/?alternateChannel=search&refId=1fktvcCYJGGheQbzq6RtQg%3D%3D&trackingId=d6hOHbyTt3TkBhGfXb7DKg%3D%3D&trk=d_flagship3_jobs_discovery_jymbii&lipi=urn%3Ali%3Apage%3Ad_flagship3_jobs_discovery_jymbii%3BaAV5cqqASiGaxZWxg9Tk8g%3D%3D&lici=d6hOHbyTt3TkBhGfXb7DKg%3D%3D
+
+a dynamic leader with a deep interest in technology and implementation of a large cloud based data SaaS platform with experience managing a team of developers creating original software.
+
+Responsibilities:
+
+Developing a cloud based platform ensuring that the platform meets and exceeds SLAs.
+Managing (hiring, coaching and mentoring) a team of high performing software engineers.
+Building developer KPIs, monitoring and improving the quality of the team and auditing the code for quality.
+Oversee alignment of technology and components across teams to guarantee consistency and quality.
+Project management with converting business requirements to software projects, allocating projects to teams and keeping them on track within agile environment.
+Managing day-to-day activities of the team within an agile/scrum environment.
+Collaborate with management to establish priorities for the team.
+Report on key metrics to various stakeholders and senior management
+Guide technical documentation of project requirements, developer processes, and end-user documentation.
+Follow and promote ReVal’s core values.
+
+Requirements:
+
+Experience in managing beta and production rollouts of cloud based platform and managing customer experience.
+Demonstrated experience in designing and implementing SaaS for complex requirements.
+Proven track record of communicating with non-technical stakeholders on technical issues and business impact.
+Proven track record of proactive project management – Manage project planning for each team, maintain schedule, identify issues and communicate schedule with other parts of the organization.
+Innovation and an eye for efficiency – Continually look for improvements in process and improving the technology stack when necessary and inculcate the culture within the team.
+Experience in building a cloud based SaaS platform. Financial analysis experience a plus.
+8+ years of managerial experience in the software development field with a team of more than 15 people.
+Technology stack: Python, Microservices, Node.js, and AWS.
+Should have experience in end-to-end product development.
+BE/BSc in Computer Science or related field.
+
+
+
+strong processing and analytical skills; the ability to work independently, and is adaptable to change. In addition, the candidate needs to demonstrate banking and compliance knowledge, the ability to exercise sound judgment and to observe the highest degree of confidentiality in the handling of information received in the course of their responsibilities.
+
+Responsibilities Include
+
+Perform ongoing formal testing of completed Compliance cases to ensure Global standards are met
+Collect and document data, including: alerting activity, account information, transactional data, politically exposed person (PEP) status, adverse media, Sanctions as well as counterparty and any other required information to assist in the investigation
+Review and analyze underlying data gathered opposite Anti-Money Laundering (AML), Terrorist Financing (TF), Human Trafficking and other red flags to assess whether the alert should be recommended for escalation or to be closed with no further action
+Review the quality of completed cases using pre-defined test scripts which are based on Compliance and Quality Assurance standards
+Question and investigate the reliability and integrity of data, the validity of conclusions and the appropriateness of assumptions made (where appropriate)
+Identify key issues, risks, trends, observations and provide reporting of results to key stakeholders
+Perform root cause analysis and make recommendations for addressing identified deficiencies or improvements to business processes
+Present findings via formalized feedback loop process, track and monitor corrections to identified critical defects
+Work with Global Partners to ensure consistency with the Global QA framework and governance approach
+Consider regulatory requirements and best practices to implement changes to process
+Effectively communicate with key points of contact to ensure the fluid sharing of information and feedback across pertinent teams
+Maintain the highest level of confidentiality throughout the QA process, disclosing only pertinent information to key stakeholders
+Build & develop strong knowledge base on multiple functions within the team using cross training methodology to create synergies
+
+Qualifications
+
+6+ years of experience with Financial Services industry, AML/BSA, KYC, Sanctions, Compliance, Investigative or Quality Assurance background preferred
+Strong knowledge of JPMC Compliance standards, guidelines, policies and procedures and due diligence requirements
+Strong research, analytical and comprehension skills, with ability to analyze large amounts of data
+Proven ability identifying issues/defects and recommending solutions
+Exceptional research and analytical skills with the ability to analyze large amounts of data, decipher higher risk attributes (transactional, geographical, product, customer type, etc.) and develop well-reasoned recommendations
+Demonstrated experience adhering to controls and compliance standards
+Bachelor's degree in Finance, Economics, Forensic Accounting, Criminal Justice (focusing on financial crime) or equivalent work experience
+Strong Communication skills including written, verbal, and interpersonal
+Results-oriented Team Player
+Ability to multi-task and meet deadlines against a high volume work schedule
+Must be detail oriented, well organized, and a self-starter
+Intermediate level skills working with the MS Office suite of tools, with an emphasis on Excel and PowerPoint
+Working knowledge of MS office & MS SharePoint
+
+
+Responsibilities: 
+
+·       Managing the team of Performance engineers and functional QE engineers. 
+·       Performance project planning and management with best practices in mind: prioritize work based on business and developer requirements. 
+·       Effectively communicating with multiple teams, departments, and management representatives. 
+·       Be the team voice in meetings. 
+·       Mentor team members in terms of their personal development, goals, and advancement. 
+·       Design and implement solutions to evaluate and improve performance and scalability of SaaS / Cloud Native Platform, application and Infrastructure 
+·       Root cause analysis of performance and scalability issues and recommend solutions to alleviate these issues 
+·       Optimize sizing of deployed component instances for cost optimization 
+·       Drive strategic technology initiatives, working with Product Managers, other Architects,, Engineers,, SME's and the broader Uniphore organization 
+·       Drives research, case studies, and prototypes on leading edge technologies and how they can be leveraged in addressing product scalability bottlenecks 
+·       Design Operations focused solutions for Engineering, considering performance, tuning, and scalability 
+·       Provide technical recommendations for system performance measurement and analysis, and profiling/troubleshooting techniques 
+·       Diagnoses, tracks, and manages performance issues to resolution 
+ 
+ 
+Requirements: 
+ 
+·       At least 8 years of experience in System Testing , Performance Analysis and troubleshooting of production systems 
+·       Strong analytical and programming skills (Python, JAVA and/or .Net) 
+·       At least 5+ years of Automation development experience on any Test framework development 
+·       Domain expert on public cloud, distributed system, micro services architecture and capacity planning 
+·       Experienced in Performance engineering design, implementing, and automating benchmarks 
+·       Proven experience in performance, scalability analysis and optimizations 
+·       Proven expertise in solving OS level performance issues 
+·       Excellent Docker, Kubernetes diagnostic experience 
+·       Understanding of cloud-scale and micro/macro-services architecture 
+·       Demonstrated knowledge of systems software and understand the impact of locking, caching and I/O on software performance 
+·       Proven track record in bringing clarity to ambiguous situations. Ability to facilitate and arbitrate technical discussions, and to make challenging calls or recommendations; Work well in a distributed team environment 
+·       Experience in monitoring and measurements using tools like catchpoint, Prometheus, ELK/Kibana and New Relic 
+·       BS or MS degree in Computer Science, Engineering, or a related technical discipline, or equivalent experience 
+·       Extremely hands-on technically; should have a deep passion and curiosity for technology 
+·       Excellent written and spoken communication is a must. 
+·       Strategic thinking and leadership skills to review other important requirements 
+·       Experience in developing and enhancing automation projects using Agile/Scrum methodologies with geographically distributed teams is highly desired 
+·       Ability to adapt to a fast-paced, changing environment 
+ 
+Nice to have: 
+ 
+·       Exposure to contact centre integrations  
+·       Expsore  on Machine Learnings especially NLP 
+ 
+What we value: 
+ 
+·       Someone who is independent, self-motivated, and can stay efficient and productive without someone looking over your shoulder all day long 
+·       Someone who is a voracious learner 
+·       Actively seeking to learn and view feedback as a beautiful gift 
+·       Loves tackling ambiguous problems and shaping them into clear goals 
+ 
+You will: 
+ 
+·       Be accountable for overall products or projects and serve as a customer advocate in collaboration with other engineers and other engineering groups 
+·       Create comprehensive performance test plans that include resource requirements, schedule assumptions, and scope based on inputs from Development, Marketing, and System Test Management. This may include coordinating test plans across multiple test organizations and facilities 
+·       Develop test tools and automation for use in analysing/testing performance 
+·       Oversee the execution and reports the results of performance test execution on new hardware, software, and solutions products. This may include reporting on coordinated performance test execution across multiple organisations 
+·       Anticipate technical and operational issues and develops preventative measures 
