@@ -13,14 +13,18 @@ I’m looking to collaborate on  Automation Frameworks Development.
 5. TypeScript -  Playwright
 6.  pytest+ Python+ Requests API
 7. Robot frameowrk + python
+8. AWS cloud micro-services deployment for huge data set  (ETL/ELT/Migration)
+9. AWS Cloud product deployment into  multi-region terraform+terragrunt
+10.  AWS Cloud product Data Recovery(DR) Management
+11.  AWS Cloud product micro-services deployment for High Avalibility/High Resilence.
 
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m doing hand on learning Agentic AI / RAG / MCP server-client - OAuth2
+- 🔭 I’m currently working on Automation framwework build
+- 🌱 Hands-on learning Agentic AI / RAG / MCP server-client - OAuth2
 - 👯 I’m looking to collaborate for full time job . Email me aashieshrrsoni@gmail.com 
-- - 🤔 I’m looking for help with ...
+- 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: +91 9834120414
 - 😄 Pronouns: ...
