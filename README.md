@@ -7,8 +7,8 @@ Automation Expert /SME Fraud Detection Analytics/AML compliance engages with mul
 I’m looking to collaborate on
 
 ##🔭 RAG 
-     # GraphRAG chatbot Q&A
-     #
+     # GraphRAG chatbot Q&A  -https://github.com/AashieshSoni/RAG-chatbot-Q-A/tree/main/GraphRAG%20QA%20chatbot
+     #RAG chatbot Q&A  -https://github.com/AashieshSoni/RAG-chatbot-Q-A/tree/main/RAG%20QA%20chatbot
 ##🔭 MCP 
      #
      #
