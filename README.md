@@ -5,10 +5,13 @@ Automation Expert /SME Fraud Detection Analytics/AML compliance engages with mul
 
 
 I’m looking to collaborate on
+
 ##🔭 RAG 
-     GraphRAG chatbot Q&A
+     # GraphRAG chatbot Q&A
+     #
 ##🔭 MCP 
-     
+     #
+     #
 ##🔭 Project Automation Frameworks Development
 1. Java - Selenium + Rest Assured
 2. Java - Cucumber(BDD) + Rest Assured+junit
