@@ -3,8 +3,11 @@
 ## About Me - Ashish Ravindra Soni | Tech Engineer AI Manager | 20+ years exp. | India 
 Automation Expert /SME Fraud Detection Analytics/AML compliance engages with multiple programs and business stakeholders including project planning, scheduling, delivery, estimation, and reporting to senior management to articulate test scope, test strategy/approach, outcomes, and progress at day-to-day level. Part of end-to-end phases of SDLC in Agile Safe 5/Scrum & Kanban methodology. 
 
+Build AI agents that plan tests, generate code, and heal failures autonomously.
+- 🔭 I’m currently working on Automation framwework build
+- 🌱 Hands-on learning Agentic AI / RAG / MCP server-client - OAuth2
+- 👯 I’m looking to collaborate for full time job . Email me aashieshrrsoni@gmail.com 
 
-I’m looking to collaborate on
 
 ##🔭 RAG 
      # GraphRAG chatbot Q&A  -https://github.com/AashieshSoni/RAG-chatbot-Q-A/tree/main/GraphRAG%20QA%20chatbot
@@ -24,18 +27,4 @@ I’m looking to collaborate on
 9. AWS Cloud product deployment into  multi-region terraform+terragrunt
 10.  AWS Cloud product Data Recovery(DR) Management
 11.  AWS Cloud product micro-services deployment for High Avalibility/High Resilence.
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Automation framwework build
-- 🌱 Hands-on learning Agentic AI / RAG / MCP server-client - OAuth2
-- 👯 I’m looking to collaborate for full time job . Email me aashieshrrsoni@gmail.com 
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: +91 9834120414
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
- 
-
 
