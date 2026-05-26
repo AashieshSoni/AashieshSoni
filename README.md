@@ -1,6 +1,21 @@
 ## Welcome to Ashish Ravindra Soni GitHub Profile! 👋
 
 ## About Me -  Technology Engineer AI Manager | 20+ years exp. | India 
+Extensive experience in IT architecture, design, and development, specializing in migration solution for monolithic 
+application to micro services AWS cloud Saas/Paas solutions to ensure seamless application deployments with near to zero 
+downtime, enhanced scalability, and risk mitigation. Expertise in designing and executing manage solutions, focusing on 
+cloud cost optimization, and sustainable software development practices to reduce the environmental footprint of IT systems. 
+Adept at leveraging microservices architecture, containerization (Docker, Kubernetes), CI/CD pipelines, and cloud-native 
+technologies to drive innovation and operational efficiency. Microservices REST API and SOAP UI,  Integrate with PowerBI, 
+Grafana, Coralogix-PagerDuty. 
+ 
+Adept at leveraging microservices architecture, containerization (Docker, Kubernetes), CI/CD pipelines, and cloud-native 
+technologies to drive innovation and operational efficiency. testing of microservices REST API and SOAP, Data Pipelines, 
+ML model performance testing with proficiency in Automation using terraform, Junit, Jira Xray. 
+ 
+Experience in leading large scale transformational, global exposure in executing projects from multiple and different 
+geographic location- USA, UK, Israel and India. 
+
 Automation Expert /SME Fraud Detection Analytics/AML compliance engages with multiple programs and business stakeholders including project planning, scheduling, delivery, estimation, and reporting to senior management to articulate test scope, test strategy/approach, outcomes, and progress at day-to-day level. Part of end-to-end phases of SDLC in Agile Safe 5/Scrum & Kanban methodology. 
 
 - 🔭 I’m currently building on Automation framwework 
