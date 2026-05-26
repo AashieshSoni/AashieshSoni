@@ -1,10 +1,9 @@
-## Welcome to Ashish's GitHub Profile! 👋
+## Welcome to Ashish Ravindra Soni GitHub Profile! 👋
 
-## About Me - Ashish Ravindra Soni | Tech Engineer AI Manager | 20+ years exp. | India 
+## About Me -  Technology Engineer AI Manager | 20+ years exp. | India 
 Automation Expert /SME Fraud Detection Analytics/AML compliance engages with multiple programs and business stakeholders including project planning, scheduling, delivery, estimation, and reporting to senior management to articulate test scope, test strategy/approach, outcomes, and progress at day-to-day level. Part of end-to-end phases of SDLC in Agile Safe 5/Scrum & Kanban methodology. 
 
-
-- 🔭 I’m currently working on Automation framwework build
+- 🔭 I’m currently building on Automation framwework 
 - 🌱 Hands-on learning Agentic GEN AI / RAG / MCP server-client - OAuth2
 - 👯 I’m looking to collaborate for full time job . Email me aashieshrrsoni@gmail.com 
 
