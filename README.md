@@ -1,6 +1,6 @@
 ## Welcome to Ashish Ravindra Soni GitHub Profile! 👋
 
-## About Me -  Technology Engineer AI Manager | 20+ years exp. | India 
+## About Me -  Technology AI Engineer Manager | 20+ years exp. | India 
 Extensive experience in IT architecture, design, and development, specializing in migration solution for monolithic 
 application to micro services AWS cloud Saas/Paas solutions to ensure seamless application deployments with near to zero 
 downtime, enhanced scalability, and risk mitigation. Expertise in designing and executing manage solutions, focusing on 
