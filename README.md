@@ -1,6 +1,11 @@
 ## Welcome to Ashish Ravindra Soni GitHub Profile! 👋
 
 ## About Me -  Technology AI Engineer Manager | 20+ years exp. | India 
+
+- 👯 I’m looking for full time job. Email me aashieshrrsoni@gmail.com
+- 🔭 Currently building AI Agents , GraphRAG for generic Automation framwework 
+- 🌱 Hands-on learning Agentic GEN AI / RAG / MCP server-client - OAuth2
+  
 Extensive experience in IT architecture, design, and development, specializing in migration solution for monolithic 
 application to micro services AWS cloud Saas/Paas solutions to ensure seamless application deployments with near to zero 
 downtime, enhanced scalability, and risk mitigation. Expertise in designing and executing manage solutions, focusing on 
@@ -18,9 +23,6 @@ geographic location- USA, UK, Israel and India.
 
 Automation Expert /SME Fraud Detection Analytics/AML compliance engages with multiple programs and business stakeholders including project planning, scheduling, delivery, estimation, and reporting to senior management to articulate test scope, test strategy/approach, outcomes, and progress at day-to-day level. Part of end-to-end phases of SDLC in Agile Safe 5/Scrum & Kanban methodology. 
 
-- 🔭 I’m currently building on Automation framwework 
-- 🌱 Hands-on learning Agentic GEN AI / RAG / MCP server-client - OAuth2
-- 👯 I’m looking to collaborate for full time job . Email me aashieshrrsoni@gmail.com 
 
 ##Featured Projects -Build AI agents that plan tests, generate code, and heal failures autonomously.
 🎭 Playwright Agents — Plan · Generate · Heal
