@@ -2,9 +2,9 @@
 
 ## About Me -  Technology AI Engineer Manager | 20+ years exp. | India 
 
-- 👯 I’m looking for full time job. Email me aashieshrrsoni@gmail.com
-- 🔭 Currently building AI Agents , GraphRAG for generic Automation framwework 
-- 🌱 Hands-on learning Agentic GEN AI / RAG / MCP server-client - OAuth2
+👯 I’m looking for full time job. Email me aashieshrrsoni@gmail.com
+🔭 Currently building AI Agents , GraphRAG for generic Automation framwework 
+🌱 Hands-on learning Agentic GEN AI / RAG / MCP server-client - OAuth2
   
 Extensive experience in IT architecture, design, and development, specializing in migration solution for monolithic 
 application to micro services AWS cloud Saas/Paas solutions to ensure seamless application deployments with near to zero 
@@ -17,9 +17,35 @@ Grafana, Coralogix-PagerDuty.
 Adept at leveraging microservices architecture, containerization (Docker, Kubernetes), CI/CD pipelines, and cloud-native 
 technologies to drive innovation and operational efficiency. testing of microservices REST API and SOAP, Data Pipelines, 
 ML model performance testing with proficiency in Automation using terraform, Junit, Jira Xray. 
- 
+
 Experience in leading large scale transformational, global exposure in executing projects from multiple and different 
 geographic location- USA, UK, Israel and India. 
+
+## LinkedIn Certification :
+
+1. Certificate Of Responsible AI on AWS Bedrock Guardrails Amazon Q Security and SageMaker Clarify.pdf
+2. Certificate Of AWS AI Automation Foundations Command Line Interface CLI with Amazon Q in AWS CloudShell.pdf
+3. Certificate Of AWS API Gateway with HTTP Lambda DynamoDB and iOS.pdf
+4. Certificate Of AWS Certified AI Practitioner AIFC01 Cert Prep.pdf
+5. Certificate Of AWS for Developers DataDriven Serverless Applications with Kinesis.pdf
+6. Certificate Of Deploying and Running Apache Kafka on Kubernetes.pdf
+7. Certificate Of Vector Graph and AWS DynamoDB.pdf
+8. Certificate Of Generative AI and Large Language Models on AWS.pdf
+9.Certificate Of Equity Foreign Exchange FX and Rate Futures.pdf
+10. Certificate Of AI Engineering Use Cases and Projects on AWS ProductionGrade LLM Systems.pdf
+11. Certificate Of Algorithmic Trading and Stocks Essential Training.pdf
+12. Certificate Of Microsoft 365 Copilot Quick Tips 2024.pdf
+13. Certificate Of Getting Started with ServiceNow Navigation Task Management and Data Visualizations.pdf
+14. Certificate Of Building Serverless Apps with AI Services on AWS.pdf
+15. Certificate Of HandsOn AI Building AI Agents with Model Context Protocol MCP and Agent2Agent A2A.pdf
+16. Certificate Of HandsOn AI Introduction to RetrievalAugmented Generation RAG.pdf
+17. Certificate Of_Hands On AI Building AI Agents with Model Context Protocol MCP and Agent2Agent A2A.pdf
+18. Certificate Of Practice Exam 2 for CompTIA SecurityX CAS005.pdf
+19. Certificate Of Principles of Responsible AI Identifying Understanding and Mitigating Risks by All Tech Is Human.pdf
+20. Certificate Of Stakeholder Management and Communication for Senior Leaders and Executives.pdf
+21. Certificate Of Succeeding as a FirstTime Tech Manager.pdf
+22. Certificate Of Hybrid Facilitation for Business Analysis.pdf
+
 
 Automation Expert /SME Fraud Detection Analytics/AML compliance engages with multiple programs and business stakeholders including project planning, scheduling, delivery, estimation, and reporting to senior management to articulate test scope, test strategy/approach, outcomes, and progress at day-to-day level. Part of end-to-end phases of SDLC in Agile Safe 5/Scrum & Kanban methodology. 
 
